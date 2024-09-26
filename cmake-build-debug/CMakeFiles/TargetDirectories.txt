@@ -1,0 +1,3 @@
+C:/Users/terez/CLionProjects/FancyDomecek/cmake-build-debug/CMakeFiles/FancyDomecek.dir
+C:/Users/terez/CLionProjects/FancyDomecek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/terez/CLionProjects/FancyDomecek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
